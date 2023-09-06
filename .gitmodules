@@ -1,0 +1,3 @@
+[submodule "Maktubv2-Frontend"]
+	path = Maktubv2-Frontend
+	url = https://github.com/Kameekazi/Maktubv2-Frontend.git
