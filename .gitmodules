@@ -1,6 +1,7 @@
-[submodule "Maktubv2-Frontend"]
-	path = Maktubv2-Frontend
-	url = https://github.com/Kameekazi/Maktubv2-Frontend.git
 [submodule "Maktubv2-Backend"]
 	path = Maktubv2-Backend
 	url = https://github.com/Kameekazi/Maktubv2-Backend.git
+
+[submodule "Maktubv2-Frontend"]
+	path = Maktubv2-Frontend
+	url = https://github.com/Kameekazi/Maktubv2-Frontend.git
